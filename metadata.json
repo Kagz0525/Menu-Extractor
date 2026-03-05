@@ -1,0 +1,5 @@
+{
+  "name": "Menu to Spreadsheet Converter",
+  "description": "Upload a restaurant menu image or PDF and convert it into a structured spreadsheet for digital menu apps.",
+  "requestFramePermissions": []
+}
